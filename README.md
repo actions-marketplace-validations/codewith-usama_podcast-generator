@@ -45,5 +45,5 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
       - name: Run Feed Generator
-        uses: codewith-usama/podcast-feed-generator@main
+        uses: codewith-usama/podcast-generator@main
 ```
